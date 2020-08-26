@@ -5,3 +5,7 @@ body{
 main{
     color: #ffffff;
 }
+
+.container {
+    max-width: 960px;
+}
