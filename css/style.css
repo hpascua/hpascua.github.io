@@ -12,6 +12,15 @@ main{
     max-width: 960px;
 }
 
-.nav-item {
+.nav-link {
+    color: #d6d6d6;
+}
+
+.nav-link:hover {
     color: #ffffff;
+}
+
+.nav-link:active{
+    color: #ffffff;
+    font-weight: bold;
 }
