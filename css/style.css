@@ -12,16 +12,3 @@ main{
 }
 
 /* HEADER */
-.site-header {
-    background-color: #0d1732;
-    -webkit-backdrop-filter: saturate(180%) blur(20px);
-    backdrop-filter: saturate(180%) blur(20px);
-}
-
-.site-header a {
-    color: #ffffffc9
-}
-
-.site-header a:hover {
-    color: #ffffff
-}
