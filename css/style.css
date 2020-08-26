@@ -4,7 +4,7 @@ body{
 }
 
 main{
-    margin: 5%;
+    margin: 5rem;
     color: #ffffff;
 }
 
@@ -17,6 +17,7 @@ main{
     background-color: #0d1732;
     -webkit-backdrop-filter: saturate(180%) blur(20px);
     backdrop-filter: saturate(180%) blur(20px);
+    align-items: center;
 }
 
 .site-header a {
