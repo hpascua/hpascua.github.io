@@ -17,7 +17,7 @@ main{
     background-color: #0d1732;
     -webkit-backdrop-filter: saturate(180%) blur(20px);
     backdrop-filter: saturate(180%) blur(20px);
-    align-items: center;
+    align-content: center;
 }
 
 .site-header a {
