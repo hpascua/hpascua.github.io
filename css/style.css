@@ -13,14 +13,14 @@ main{
 }
 
 .nav-link {
-    color: #d6d6d6;
+    color: #bfbfbf;
 }
 
 .nav-link:hover {
     color: #ffffff;
 }
 
-.nav-link:active{
+.active{
     color: #ffffff;
     font-weight: bold;
 }
